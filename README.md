@@ -13,6 +13,8 @@ I'm a 🖥 Developer and 📊 Reseacher.
 [<img align="left" alt="Twitter logo" width="24px" src="https://raw.githubusercontent.com/alvarofpp/alvarofpp/master/images/twitter-square-brands.svg" />][twitter]
 [<img align="left" alt="Medium logo" width="24px" src="https://raw.githubusercontent.com/alvarofpp/alvarofpp/master/images/medium-brands.svg" />][medium]
 
+<br/>
+
 ---
 
 ### 💻 Some projects that may interest you
