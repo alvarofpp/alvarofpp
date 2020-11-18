@@ -34,11 +34,11 @@ I'm a 🖥 Developer and 📊 Reseacher.
 
 ### 📕 Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Previsão do tempo de Natal-RN utilizando LSTM — Parte 3/3](https://medium.com/@alvarofpp/previs%C3%A3o-do-tempo-de-natal-rn-utilizando-lstm-parte-3-3-f3d485674e08?source=rss-84b22349fd31------2)
+- [Previsão do tempo de Natal-RN utilizando LSTM — Parte 2/3](https://medium.com/@alvarofpp/previs%C3%A3o-do-tempo-de-natal-rn-utilizando-lstm-parte-2-3-437bca7fa51d?source=rss-84b22349fd31------2)
+- [Previsão do tempo de Natal-RN utilizando LSTM — Parte 1/3](https://medium.com/@alvarofpp/previs%C3%A3o-do-tempo-de-natal-rn-utilizando-lstm-parte-1-3-e2ee9dee2d0d?source=rss-84b22349fd31------2)
 - [Tipos de dicionário em Python](https://medium.com/@alvarofpp/tipos-de-dicion%C3%A1rio-em-python-7aee4e1800ef?source=rss-84b22349fd31------2)
 - [Personalizando o Kibana 7.x](https://medium.com/@alvarofpp/personalizando-o-kibana-7-x-ac66adcc9d71?source=rss-84b22349fd31------2)
-- [Previsão do tempo de Natal-RN utilizando machine learning](https://medium.com/@alvarofpp/previs%C3%A3o-do-tempo-de-natal-rn-utilizando-machine-learning-b5a15c8d721b?source=rss-84b22349fd31------2)
-- [MongoDB vs PostGIS (PostgreSQL)](https://medium.com/@alvarofpp/mongodb-vs-postgis-postgresql-50d8c7f9adda?source=rss-84b22349fd31------2)
-- [Algoritmos gulosos](https://medium.com/@alvarofpp/algoritmos-gulosos-937390bb1137?source=rss-84b22349fd31------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
