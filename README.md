@@ -1,23 +1,60 @@
-### Hi there, I'm Álvaro 👋
+## Hi there, I'm Álvaro 👋
 I'm a 🖥 Developer and 📊 Reseacher.
 
 - 🌱 I’m currently learning everything, mainly: data structures, data engineering and big data technologies.
 - 🎓 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN).
-- 📚 Undergraduate researcher at @lais-huol, working with web development and big data.
+- 📚 Researcher in Deep Reinforcement Learning using StarCraft II.
+- 💻 Working with web development, mainly API and microservices.
 
 <small>See my [online resume][website].</small>
 
-##### Connect with me:
+### Where to find me:
 
-[<img align="left" alt="LinkedIn logo" width="24px" src="https://raw.githubusercontent.com/alvarofpp/alvarofpp/master/images/linkedin-brands.svg" />][linkedin]
-[<img align="left" alt="Twitter logo" width="24px" src="https://raw.githubusercontent.com/alvarofpp/alvarofpp/master/images/twitter-square-brands.svg" />][twitter]
-[<img align="left" alt="Medium logo" width="24px" src="https://raw.githubusercontent.com/alvarofpp/alvarofpp/master/images/medium-brands.svg" />][medium]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alvarofpp)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/alvarofpp)
+[![Medium](https://img.shields.io/badge/-Medium-03a57a?style=for-the-badge&labelColor=000000&logo=Medium&logoColor=white)](https://alvarofpp.medium.com)
+[![Orcid](https://img.shields.io/badge/-Orcid-a6ce39?style=for-the-badge&logo=Orcid&logoColor=white)](https://orcid.org/0000-0003-0708-051X)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/alvarofpp)
 
-<br/>
+### Tools
+![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&labelColor=474A8A&logo=PHP&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-F05340?style=flat-square&labelColor=F05340&logo=Laravel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&labelColor=3776AB&logo=Python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&labelColor=000000&logo=Flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-D82C20?labelColor=D82C20&logo=Redis&style=flat-square&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-0062cc?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=Git&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?labelColor=E34F26&logo=HTML5&style=flat-square&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?labelColor=1572B6&logo=CSS3&style=flat-square&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?labelColor=563D7C&logo=Bootstrap&style=flat-square&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?labelColor=F7DF1E&logo=JavaScript&style=flat-square&logoColor=black)
+![Latex](https://img.shields.io/badge/-LaTeX-008080?labelColor=008080&logo=LaTeX&style=flat-square&logoColor=white)
+![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?labelColor=47A141&logo=Overleaf&style=flat-square&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-ef5b25?labelColor=ef5b25&logo=Postman&style=flat-square&logoColor=white)
+
+
+<!--
+![Linux](https://img.shields.io/badge/-Linux-003366?labelColor=003366&logo=Linux&style=flat-square&logoColor=white)
+![JQuery](https://img.shields.io/badge/-JQuery-0769AD?labelColor=0769AD&logo=JQuery&style=flat-square&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarofpp&hide=jupyter%20notebook,css,html,javascript&layout=compact)
+-->
 
 ---
 
 ### 💻 Some projects that may interest you
+
+Most of my projects are grouped in tags. You can use these tags to find projects about specific contexts:
+
+| TAG | DESCRIPTION |
+| --- | ----------- |
+| `ufrn` | Federal University of Rio Grande do Norte. Codes and projects made at my graduation. |
+| `interview` | Projects developed in job interviews. |
+| `course`, `tutorial`, `udemy`, `coursera`, `alura` | Codes, projects, notes, etc that I did in courses and related. |
+| `dataset` | Scripts to download and process databases. |
 
 #### Laravel
 - [masks][laravel-masks]: apply mask in your variables or model’s attributes.
@@ -43,7 +80,9 @@ I'm a 🖥 Developer and 📊 Reseacher.
 
 ---
 
-<img align="left" alt="Álvaro FPP's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alvarofpp&theme=graywhite&count_private=true&show_icons=true" />
+![Álvaro FPP's Github Stats](https://github-readme-stats.vercel.app/api?username=alvarofpp&theme=graywhite&count_private=true&show_icons=true)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alvarofpp)
 
 <!-- Social -->
 [website]: https://alvarofpp.github.io/
