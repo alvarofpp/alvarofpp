@@ -51,10 +51,10 @@ Most of my projects are grouped in tags. You can use these tags to find projects
 
 | TAG | DESCRIPTION |
 | --- | ----------- |
-| `ufrn` | Federal University of Rio Grande do Norte. Codes and projects made at my graduation. |
-| `interview` | Projects developed in job interviews. |
-| `course`, `tutorial`, `udemy`, `coursera`, `alura` | Codes, projects, notes, etc that I did in courses and related. |
 | `dataset` | Scripts to download and process databases. |
+| `interview` | Projects developed in job interviews. |
+| `ufrn` | Federal University of Rio Grande do Norte. Codes and projects made at my graduation. |
+|  `course`, `study`, `tutorial`, <br/> `4linux`, `alura`, `coursera`, `kaggle`, `udemy` | Codes, projects, notes, etc that I did in courses and related. |
 
 #### Laravel
 - [masks][laravel-masks]: apply mask in your variables or model’s attributes.
