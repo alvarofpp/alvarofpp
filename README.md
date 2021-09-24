@@ -20,6 +20,7 @@ I'm a 🖥 Developer and 📊 Reseacher.
 ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&labelColor=474A8A&logo=PHP&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-F05340?style=flat-square&labelColor=F05340&logo=Laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&labelColor=3776AB&logo=Python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&labelColor=000000&logo=Flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
@@ -34,6 +35,7 @@ I'm a 🖥 Developer and 📊 Reseacher.
 ![Latex](https://img.shields.io/badge/-LaTeX-008080?labelColor=008080&logo=LaTeX&style=flat-square&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?labelColor=47A141&logo=Overleaf&style=flat-square&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-ef5b25?labelColor=ef5b25&logo=Postman&style=flat-square&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
 
 <!--
