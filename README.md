@@ -1,10 +1,10 @@
 ## Hi there, I'm Álvaro 👋
-I'm a 🖥 Developer and 📊 Reseacher.
+I'm a 🖥 software engineer and 📊 reseacher.
 
 - 🌱 I’m currently learning everything, mainly: data structures, data engineering and big data technologies.
-- 🎓 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN).
 - 📚 Researcher in Deep Reinforcement Learning using StarCraft II.
 - 💻 Working with web development, mainly API and microservices.
+<!-- - 🎓 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN). -->
 
 <small>See my [online resume][website].</small>
 
@@ -37,7 +37,6 @@ I'm a 🖥 Developer and 📊 Reseacher.
 ![Postman](https://img.shields.io/badge/-Postman-ef5b25?labelColor=ef5b25&logo=Postman&style=flat-square&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
-
 <!--
 ![Linux](https://img.shields.io/badge/-Linux-003366?labelColor=003366&logo=Linux&style=flat-square&logoColor=white)
 ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?labelColor=0769AD&logo=JQuery&style=flat-square&logoColor=white)
@@ -49,13 +48,13 @@ I'm a 🖥 Developer and 📊 Reseacher.
 
 ### 💻 Some projects that may interest you
 
-Most of my projects are grouped in tags. You can use these tags to find projects about specific contexts:
+Most of my projects are grouped in namespaces. You can use these namespaces to find projects about specific contexts:
 
-| TAG | DESCRIPTION |
+| NAMESPACE | DESCRIPTION |
 | --- | ----------- |
 | `dataset` | Scripts to download and process databases. |
 | `interview` | Projects developed in job interviews. |
-| `ufrn` | Federal University of Rio Grande do Norte. Codes and projects made at my graduation. |
+| `ufrn` | Federal University of Rio Grande do Norte. Codes and projects made at my undergraduate and master's. |
 |  `course`, `study`, `tutorial`, <br/> `4linux`, `alura`, `coursera`, `kaggle`, `udemy` | Codes, projects, notes, etc that I did in courses and related. |
 
 #### Laravel
