@@ -53,8 +53,9 @@ Most of my projects are grouped in namespaces. You can use these namespaces to f
 | NAMESPACE | DESCRIPTION |
 | --- | ----------- |
 | `dataset` | Scripts to download and process databases. |
+| `docker` | Docker images. |
 | `interview` | Projects developed in job interviews. |
-| `ufrn` | Federal University of Rio Grande do Norte. Codes and projects made at my undergraduate and master's. |
+| `ufrn` | Federal University of Rio Grande do Norte. Codes and projects made at my undergraduate (`imd`, `dim`) and master's (`ppgti`). |
 |  `course`, `study`, `tutorial`, <br/> `4linux`, `alura`, `coursera`, `kaggle`, `udemy` | Codes, projects, notes, etc that I did in courses and related. |
 
 #### Laravel
