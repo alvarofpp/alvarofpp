@@ -6,8 +6,6 @@ I'm a 🖥 software engineer and 📊 reseacher.
 - 💻 Working with web development, mainly API and microservices.
 <!-- - 🎓 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN). -->
 
-<small>See my [online resume][website].</small>
-
 ### Where to find me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alvarofpp)
