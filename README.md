@@ -80,8 +80,6 @@ Most of my projects are grouped in namespaces. You can use these namespaces to f
 
 ---
 
-![Álvaro FPP's Github Stats](https://github-readme-stats.vercel.app/api?username=alvarofpp&theme=graywhite&count_private=true&show_icons=true)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alvarofpp)
 
 <!-- Social -->
