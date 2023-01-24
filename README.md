@@ -1,9 +1,9 @@
 ## Hi there, I'm Álvaro 👋
 I'm a 🖥 software engineer and 📊 reseacher.
 
-- 🌱 I’m currently learning everything, mainly: data structures, data engineering and big data technologies.
-- 📚 Researcher in Deep Reinforcement Learning using StarCraft II.
-- 💻 Working with web development, mainly API and microservices.
+- 🌱 I like to learn a little bit of everything, but I have been delving into the technologies surrounding the DevOps area.
+- 📚 Researcher in (Deep) Reinforcement Learning.
+- 💻 I work with CI/CD, developer experience, software development environment automations.
 <!-- - 🎓 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN). -->
 
 ### Where to find me:
