@@ -1,19 +1,24 @@
 ## Hi there, I'm Álvaro 👋
 I'm a 🖥 software engineer and 📊 reseacher.
 
-- 🌱 I like to learn a little bit of everything, but I have been delving into the technologies surrounding the DevOps area.
-- 📚 Researcher in (Deep) Reinforcement Learning.
-- 💻 I work with CI/CD, developer experience, software development environment automations.
+- 🌱 I like to learn a bit of everything, especially if it involves Ops and Machine Learning.
+- 📚 Researcher in (Deep) Reinforcement Learning. You can find out more here: [URNAI][urnai].
+- 💻 I currently work mainly with SiteOps, DevOps and databases.
 <!-- - 🎓 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN). -->
+
+I'm available for open-source projects or to share experiences and knowledge in general.
 
 ### Where to find me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alvarofpp)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/alvarofpp)
 [![Medium](https://img.shields.io/badge/-Medium-03a57a?style=for-the-badge&labelColor=000000&logo=Medium&logoColor=white)](https://alvarofpp.medium.com)
+<!--
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/alvarofpp)
 [![Orcid](https://img.shields.io/badge/-Orcid-a6ce39?style=for-the-badge&logo=Orcid&logoColor=white)](https://orcid.org/0000-0003-0708-051X)
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/alvarofpp)
+# [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/alvarofpp)
+-->
 
+<!--
 ### Tools
 ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&labelColor=474A8A&logo=PHP&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-F05340?style=flat-square&labelColor=F05340&logo=Laravel&logoColor=white)
@@ -34,6 +39,7 @@ I'm a 🖥 software engineer and 📊 reseacher.
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?labelColor=47A141&logo=Overleaf&style=flat-square&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-ef5b25?labelColor=ef5b25&logo=Postman&style=flat-square&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+-->
 
 <!--
 ![Linux](https://img.shields.io/badge/-Linux-003366?labelColor=003366&logo=Linux&style=flat-square&logoColor=white)
@@ -56,17 +62,6 @@ Most of my projects are grouped in namespaces. You can use these namespaces to f
 | `ufrn` | Federal University of Rio Grande do Norte. Codes and projects made at my undergraduate (`imd`, `dim`) and master's (`ppgti`). |
 |  `course`, `study`, `tutorial`, <br/> `4linux`, `alura`, `coursera`, `kaggle`, `udemy` | Codes, projects, notes, etc that I did in courses and related. |
 
-#### Laravel
-- [masks][laravel-masks]: apply mask in your variables or model’s attributes.
-- [expand-database][laravel-database]: add new functions to manipulate your database.
-- [expand-request][laravel-request]: a package to make it easy to manipulate your requests and more.
-
-#### Python
-- [mre][py-mre]: a package to make regular expressions.
-- [validate-docbr][py-docbr]: a package for Brazilian documents validation.
-- [adt-extension][py-adt]: abstract data structure extensions.
-- [odufrn/odufrn-downloader][py-odufrn-download]: download the data from the UFRN's open data portal.
-
 ---
 
 ### 📕 Latest Posts
@@ -87,12 +82,6 @@ Most of my projects are grouped in namespaces. You can use these namespaces to f
 [twitter]: https://twitter.com/alvarofpp
 [linkedin]: https://linkedin.com/in/alvarofpp
 [medium]: https://medium.com/@alvarofpp
-<!-- Laravel -->
-[laravel-masks]: https://github.com/alvarofpp/laravel-masks
-[laravel-database]: https://github.com/alvarofpp/laravel-expand-database
-[laravel-request]: https://github.com/alvarofpp/laravel-expand-request
-<!-- Python -->
-[py-mre]: https://github.com/alvarofpp/mre
-[py-docbr]: https://github.com/alvarofpp/validate-docbr
-[py-adt]: https://github.com/alvarofpp/python-adt-extension
-[py-odufrn-download]: https://github.com/odufrn/odufrn-downloader
+
+<!-- Others -->
+[urnai]: https://github.com/UFRN-URNAI
